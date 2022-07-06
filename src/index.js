@@ -1,6 +1,6 @@
 import 'bootstrap';
 import _ from 'lodash';
-import './assets/stylesheets/style.css';
+import './assets/stylesheets/style.scss';
 import Icon from './assets/images/icon.png';
 
 function component() {
