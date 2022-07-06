@@ -1,7 +1,7 @@
 import 'bootstrap';
 import _ from 'lodash';
-import './assets/stylesheets/style.scss';
-import Icon from './assets/images/icon.png';
+import '../stylesheets/style.scss';
+import Icon from '../images/icon.png';
 
 function component() {
     const element = document.createElement('div');
